@@ -16,7 +16,7 @@ typedef struct atributo {
   int vontade;
   int criatividade;
   int lider; // boleano
-  int machucado; // boleano
+  int machucado; // boleanooo
 
 } Atributo;
 
