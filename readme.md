@@ -13,4 +13,3 @@ Conseguir demonstrar os Status e Nomes de cada Jogador na planilha
 
 
 [Dany](http://www.github.com/iDany14)
-[thiago](http://www.github.com/thiagomarcal)
